@@ -1,0 +1,13 @@
+ .menu-item {
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+ }
+
+
+
+
+ .avatar {
+     border-radius: 50%;
+     cursor: pointer;
+ }
