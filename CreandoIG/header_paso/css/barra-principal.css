@@ -1,0 +1,27 @@
+.nav-principal {
+    height: 65%;
+    padding: 35px 23px;
+}
+
+.nav-principal>img {
+    height: 28px;
+    width: 103px;
+}
+
+.lista-menu {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
+.avatar-barralateral {
+    width: var(--tam-icono);
+    height: var(--tam-icono);
+    object-fit: cover;
+    border: 2px solid #020202;
+}
+
+.menu-item img {
+    margin-right: 15px;
+}
