@@ -1,0 +1,24 @@
+ .menu-item {
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+ }
+
+ .avatar {
+     border-radius: 50%;
+     cursor: pointer;
+ }
+
+ .menu-item img {
+     width: var(--tam-icono);
+     height: var(--tam-icono);
+ }
+
+ .boton {
+     padding: 8px;
+     cursor: pointer;
+     border: solid #fafafa 1px;
+     border-radius: 8%;
+     white-space: nowrap;
+     margin: auto 8px;
+ }
