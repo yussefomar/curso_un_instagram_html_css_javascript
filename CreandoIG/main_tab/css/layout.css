@@ -1,0 +1,22 @@
+nav {
+    width: 15%;
+    background-color: var(--color-fondo);
+    position: fixed;
+    height: 100%;
+    border-right: 1px solid var(--color-borde);
+}
+
+header {
+
+    margin-left: 15%;
+    padding: 40px 0px 20px 0px;
+
+
+}
+
+main {
+
+    margin-left: 33%;
+
+    width: 50%;
+}
