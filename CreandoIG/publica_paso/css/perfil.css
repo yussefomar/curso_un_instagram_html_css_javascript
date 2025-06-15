@@ -1,0 +1,64 @@
+ .perfil-header {
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     display: flex;
+     background-color: var(--color-fondo);
+ }
+
+ .avatar-perfil {
+     height: var(--tam-perfil);
+     width: var(--tam-perfil);
+     margin-top: 25px;
+
+ }
+
+
+ .perfil-row {
+     display: flex;
+     justify-content: space-between;
+ }
+
+
+ .perfil-info {
+     margin-left: 100px;
+     width: 400px;
+     background-color: var(--color-fondo);
+
+ }
+
+ .perfil-estadis b {
+     font-weight: 600;
+ }
+
+ .perfil-top {
+     align-items: center;
+     margin-bottom: 5px;
+ }
+
+ .perfil-top h1 {
+     color: #616161;
+     font-weight: 400;
+     font-size: 26px;
+ }
+
+
+
+ .perfil-bio h2,
+ .perfil-bio p {
+     margin: 0px;
+     font-size: 14px;
+ }
+
+
+
+ .perfil-link {
+     color: #1e4e7c;
+     font-weight: 200;
+     text-decoration: none;
+
+ }
+
+ .perfil-link:hover {
+     text-decoration: underline;
+ }

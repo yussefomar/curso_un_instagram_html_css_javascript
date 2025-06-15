@@ -1,0 +1,13 @@
+.galeria-publicaciones {
+    padding-top: 25px;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: repeat(5, auto);
+    gap: 1px;
+}
+
+.galeria-publicaciones img {
+    height: 357px;
+    width: 230px;
+    cursor: pointer;
+}
